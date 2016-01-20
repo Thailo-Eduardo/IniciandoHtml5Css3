@@ -1,0 +1,168 @@
+/*CSS RESET
+  EricMeyer CSS Reset - http://meyerweb.com/eric/tools/css/reset/.
+  Criado pelos desenvolvedores front-end do Yahoo - YUI3 CSS Reset
+  HTML5 Boilerplate
+*/
+
+/*
+-webkit-animation: rodaroda 10.0s linear infinite alternate;
+@-webkit-keyframes rodaroda {
+    from {
+        -webkit-transform:rotate(0deg);
+    }
+    to {
+        -webkit-transform:rotate(360deg);
+    }
+}
+*/
+
+*{margin: 0; padding: 0;}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*cabeçalho da pagina*/
+.topo{
+    background-color: mediumseagreen;
+    padding: 0px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+
+/*Menu  principal*/
+#menu{
+    background-color: #eee;
+    padding: 5px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    -webkit-box-shadow: inset 1px 0px 0px 0px rgba(0,0,0,1);
+    -moz-box-shadow: inset 1px 1px 0px 0px rgba(0,0,0,1);
+    box-shadow: inset 1px 1px 0px 0px rgba(0,0,0,1);
+}
+
+#menu ul li{
+    display: inline;
+    margin-right:5px;
+}
+
+#menu ul li a{
+    color: #000;
+    display: inline;
+    text-decoration: none;
+    -webkit-transition: 0.5s linear;
+    -moz-transition: 0.5s linear;
+    transition: 0.5s linear;
+}
+
+#menu ul li a:hover{
+    color: #FFF;
+    -webkit-transition: 0.5s linear;
+    -moz-transition: 0.5s linear;
+    -webkit-transform: scale(0.2) rotate(-5deg);
+    -moz-transform: scale(10.2) rotate(-5deg);
+    transform: scale(0.2) rotate(-5deg);
+}
+
+/*titulos para todas as paginas*/
+.titulo{
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+}
+
+.titulocab{
+    font-size: 50px;
+}
+
+/*corpo da pagina principal*/
+.content{
+    width: 980px;
+    background-color: sandybrown;
+    margin: auto;
+    margin-top: 170px;
+    padding: 5px;
+    -webkit-box-shadow: 0px 0px 24px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 24px 0px rgba(0,0,0,1);
+    box-shadow: 0px 0px 24px 0px rgba(0,0,0,1);
+    display: table;
+    clear: both;
+}
+
+/*ARTIGOS DA PAGINA*/
+.artigo{
+    background-color: #ccc;
+    width: 650px;
+    border-radius:  10px 10px 10px 10px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.ArtTit{
+    color: #000;
+}
+
+.ConteudoArtigo{
+    background-color: #fff;
+    padding: 5px;
+    color: #000;
+}
+
+.ConteudoArtigo p{
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left:20px;
+}
+
+#artigoimg{
+    left:50%;
+    top:50%;
+  	margin-left:20px;
+}
+
+/*
+.ConteudoArtigo figure img{
+    margin: auto;
+
+}
+*/
+
+/*rodape da pagina*/
+.rodape{
+    background-color: mediumseagreen;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    padding: 4px;
+    margin-top: 20px;
+    -webkit-box-shadow: inset 0px 0px 49px -14px rgba(0,0,0,1);
+    -moz-box-shadow: inset 0px 0px 49px -14px rgba(0,0,0,1);
+    box-shadow: inset 0px 0px 49px -14px rgba(0,0,0,1);
+}
+
+.artigo-sobre{
+  background-color: #fff;
+  width: 400px;
+  border-radius:  5px;
+  padding: 5px;
+  margin: auto;
+  margin-top: 20px;
+  float: left;
+  margin-left: 50px;
+}
+
+.artigo-sobre h3{
+  text-align: center;
+}
+
+.ConteudoArtigo{
+  background-color: #fff;
+}
+
+.ConteudoArtigo p{
+  margin-top: 10px;
+}

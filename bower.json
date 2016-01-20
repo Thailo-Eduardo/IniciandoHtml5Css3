@@ -1,0 +1,30 @@
+{
+  "name": "iniciando_bower",
+  "authors": [
+    "Thailo-Eduardo <thailoeduardo@hotmail.com>"
+  ],
+  "description": "aprendendo Bower",
+  "main": "aprendendo guia definitivo para o Bower",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6",
+    "angular": "https://github.com/angular/bower-angular.git#~1.4.8"
+  }
+}

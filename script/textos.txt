@@ -1,0 +1,23 @@
+As melhores 20 fotos da vida de um programador
+
+Aqui é o melhor 20 fotos da vida de um programador:
+1- Quando gerente de projeto entra no escritório
+2- Quando eu estou implantando código para produção
+3- Quando eu tento corrigir um bug no 3 de manhã
+4- Quando me disseram que o módulo em que tenho trabalhado toda a semana nunca serão usados
+5- Quando sysadmin finalmente nos dá o acesso root
+6- Quando se aplica um novo CSS pela primeira vez
+7- Quando eu lançar o meu script pela primeira vez depois de várias horas de desenvolvimento
+8- Quando o aplicativo entra em beta e os primeiros relatórios de bugs chegar
+9- Quando o chefe está à procura de alguém para corrigir urgentemente um bug difícil
+10- Quando meu script finalmente funcionou
+11- Quando eu percebo que eu tenho sido bloqueada por duas horas por causa de um ponto e vírgula esquecido
+12- Quando um bug passa des percebido durante uma apresentaçã
+13- Quando o código que eu não testei em dev funciona perfeitamente em produção
+14- Quando eu começar a codificar sem fazer análise primeiro
+15- Quando eles me dizem o site tem que ser apoiado por IE6
+16- Quando eu conseguir substituir 200 linha de código em 10 de linha
+17- Quando eu sair para o fim de semana, enquanto todo mundo ainda está tentando corrigir bugs
+18- Quando gerente de projeto pensa que eu posso lidar com todo o projeto sozinho
+19- Quando eu encontrar uma solução sem pesquisar no Google
+20- Quando uma coisa que funcionou na sexta-feira já não funciona na segunda-feira
